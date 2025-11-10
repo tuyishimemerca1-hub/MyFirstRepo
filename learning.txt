@@ -1,0 +1,4 @@
+Something I've learned so far in this course:
+
+I have learned how to use Git and GitHub to manage my projects, track changes, and collaborate effectively. 
+Understanding how to commit, branch, and merge has helped me build confidence in version control and software collaboration.
