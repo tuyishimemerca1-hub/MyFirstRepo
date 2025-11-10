@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+My name is Melissa Borisse. I am passionate about technology and learning how to use tools like GitHub to manage and share projects. I enjoy solving problems, collaborating with others, and exploring new ways to improve my skills in programming and Data Science.
